@@ -6,4 +6,10 @@ K
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
+$CMP BTS7960B
+D Path resistance of typ. 16 m @ 25 C
+K
+F https://4donline.ihs.com/images/VipMasterIC/IC/RSEL/RSELS14945/RSELS14593-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
 #End Doc Library
